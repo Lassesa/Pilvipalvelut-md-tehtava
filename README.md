@@ -1,4 +1,4 @@
-# Pilvipalvelut ja automaatio – Portfolio
+# Pilvipalvelut Lisätehtävä E
 
 Tämä repositorio toimii julkisena sivustona ja portfoliona pilvipalvelut-kurssin harjoituksille. Sivusto on toteutettu hyödyntämällä **GitHub Pages** -palvelua ja puhtaasti **Markdown**-syntaksia ilman erillistä HTML-koodia.
 
@@ -12,9 +12,9 @@ Kurssin aikana olen toteuttanut monipuolisesti erilaisia pilvi- ja automaatiorat
 | :--- | :--- | :--- | :--- |
 | **Tehtävä 1** | Render & CI/CD | Node.js-verkkosovelluksen pystytys ja automaattinen julkaisu | Valmis ✅ |
 | **Tehtävä 2** | Terraform (IaC) | Linux VPS -palvelimen automatisoitu pystytys Hetzneriin | Valmis ✅ |
-| **Tehtävä 3** | Cloudflare Pages | Staattisen verkkosivuston julkaisu ja jakelu[cite: 1] | Valmis ✅ |
+| **Tehtävä 3** | Cloudflare Pages | Staattisen verkkosivuston julkaisu ja jakelu | Valmis ✅ |
 | **Tehtävä 4** | Google Firebase | Pilvitietokannan (Firestore) hyödyntäminen dynaamisessa sovelluksessa[cite: 1] | Valmis ✅ |
-| **Tehtävä 5** | Playwright / RPA | Lounaslistojen automaattinen skrapaus verkkosivulta[cite: 1] | Valmis ✅ |
+| **Tehtävä 5** | Playwright / RPA | Lounaslistojen automaattinen skrapaus verkkosivulta | Valmis ✅ |
 
 ---
 
